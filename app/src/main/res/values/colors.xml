@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <drawable name="bg_color">#FFF4F4F4</drawable>
+    <drawable name="white_bg_color">#FFFFFFFF</drawable>
+
+    <color name="white">#ffffff</color>
+    <color name="tab_item_color">#4c4c4c</color>
+    <color name="tab_item_color_f">#00BAF1</color>
+
+    <drawable name="main_bg_color">#ffffffff</drawable>
+
+    <color name="transparent">#00000000</color>
+    <color name="translucent">#50000000</color>
+    <color name="red">#ff0000</color>
+    <color name="gray">#808080</color>
+    <color name="black">#000000</color>
+
+    <!-- 主色 -->
+    <color name="main_red">#e30c0c</color>
+    <!-- 辅色 -->
+    <color name="main_orange">#ff5900</color>
+    <!-- 中性色 -->
+    <color name="main_medium_A">#ff4c4c4c</color> <!-- 标题正文 -->
+    <color name="main_medium_B">#ff969696</color> <!-- 灰色文字 -->
+    <color name="main_medium_C">#ffd0d0d0</color> <!-- 分割线 -->
+    <color name="main_medium_D">#fff4f4f4</color><!-- 背景 -->
+    <color name="main_medium_E">#fffafafa</color>
+    <color name="main_medium_F">#ff0099cc</color>
+
+    <color name="province_line_border">#C7C7C7</color>
+
+    <color name="top_bg_color">#00BAF1</color>
+    <color name="top_title_bg_color">#4272e2</color>
+    <color name="pop_bg_color">#ffffffff</color>
+    <color name="focus_menu_color">#50000000</color>
+
+    <drawable name="top_title_bg_color1">#ff4272e2</drawable>
+
+    <color name="color_doc_content_sw_border">#00BAF1</color>
+    <color name="color_doc_content_fw_border">#ffff9393</color>
+    <color name="color_doc_content_value">#ff4c4c4c</color>
+
+    <color name="info_value">#949494</color>
+    <color name="info_blue">#67C3FE</color>
+    <color name="register_list_sep_line">#949494</color>
+
+
+    <color name="item_progress">#12A3F7</color>
+    <color name="pale_txt">#e9ecf1</color><!--灰白-->
+</resources>
